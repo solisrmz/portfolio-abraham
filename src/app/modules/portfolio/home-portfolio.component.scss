@@ -1,0 +1,29 @@
+.avatar-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: solid 2px grey;
+}
+
+.header {
+    height: 40%;
+    background-color: var(--md-primary-700);
+}
+
+h2,
+h3 {
+    color: white;
+}
+
+.info-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 1em;
+}
+
+.info-text {
+    text-align: center;
+    padding-top: 3px;
+}

@@ -1,8 +1,49 @@
 :root {
     /*Primary color*/
-    --md-primary-50: #a4b1b8, --md-primary-100: #96a4ad, --md-primary-200: #8898a2, --md-primary-300: #798c97, --md-primary-400: #6c7f8a, --md-primary-500: ##61727C, --md-primary-600: #56656e, --md-primary-700: #4b585f, --md-primary-800: #3f4b51, --md-primary-900: #343d43, --md-primary-A100: #b3bdc3, --md-primary-A200: #c1c9ce, --md-primary-A400: #cfd6da, --md-primary-A700: #293034
+    --md-primary-50: #a4b1b8;
+    --md-primary-100: #96a4ad;
+    --md-primary-200: #8898a2;
+    --md-primary-300: #798c97;
+    --md-primary-400: #6c7f8a;
+    --md-primary-500: ##61727C;
+    --md-primary-600: #56656e;
+    --md-primary-700: #4b585f;
+    --md-primary-800: #3f4b51;
+    --md-primary-900: #343d43;
+    --md-primary-A100: #b3bdc3;
+    --md-primary-A200: #c1c9ce;
+    --md-primary-A400: #cfd6da;
+    --md-primary-A700: #293034
     /*Accent color*/
-    --md-accent-50: #1e2c27, --md-accent-100: #293b35, --md-accent-200: #334a43, --md-accent-300: #3e5950, --md-accent-400: #48685e, --md-accent-500: #53776b, --md-accent-600: #679587, --md-accent-700: #76a093, --md-accent-800: #85aa9f, --md-accent-900: #94b5aa, --md-accent-A100: #679587, --md-accent-A200: ##5D8679, --md-accent-A400: #53776b, --md-accent-A700: #a3bfb6
+    --md-accent-50: #1e2c27;
+    --md-accent-100: #293b35;
+    --md-accent-200: #334a43;
+    --md-accent-300: #3e5950;
+    --md-accent-400: #48685e;
+    --md-accent-500: #53776b;
+    --md-accent-600: #679587;
+    --md-accent-700: #76a093;
+    --md-accent-800: #85aa9f;
+    --md-accent-900: #94b5aa;
+    --md-accent-A100: #679587;
+    --md-accent-A200: ##5D8679;
+    --md-accent-A400: #53776b;
+    --md-accent-A700: #a3bfb6
     /*Warn color*/
-    --md-warn-50: #e3bdb9, --md-warn-100: #dcaba7, --md-warn-200: #d59a95, --md-warn-300: #ce8982, --md-warn-400: #c67770, --md-warn-500: #BF665E, --md-warn-600: #b8554c, --md-warn-700: #a74b43, --md-warn-800: #95433b, --md-warn-900: #833b34, --md-warn-A100: #ebcecb, --md-warn-A200: #f2dfde, --md-warn-A400: #f9f1f0, --md-warn-A700: #71322d
+    --md-warn-50: #e3bdb9;
+    --md-warn-100: #dcaba7;
+    --md-warn-200: #d59a95;
+    --md-warn-300: #ce8982;
+    --md-warn-400: #c67770;
+    --md-warn-500: #BF665E;
+    --md-warn-600: #b8554c;
+    --md-warn-700: #a74b43;
+    --md-warn-800: #95433b;
+    --md-warn-900: #833b34;
+    --md-warn-A100: #ebcecb;
+    --md-warn-A200: #f2dfde;
+    --md-warn-A400: #f9f1f0;
+    --md-warn-A700: #71322d
+    /*Otros elementos de la interfaz*/
+    --title-color: #ffff;
 }
