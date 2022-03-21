@@ -5,6 +5,12 @@
     border: solid 2px grey;
 }
 
+.flag {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+}
+
 .header {
     height: 40%;
     background-color: var(--md-primary-700);
@@ -12,7 +18,7 @@
 
 h2,
 h3 {
-    color: white;
+    color: var(--title-color);
 }
 
 h2 {
@@ -36,5 +42,10 @@ h2 {
     display: flex;
     flex-direction: column;
     align-items: flex-end;
-    color: white;
+    color: var(--icon-color);
+}
+
+::ng-deep.menu {
+    background-color: var(--md-primary-50)!important;
+    color: var(--title-color)!important;
 }

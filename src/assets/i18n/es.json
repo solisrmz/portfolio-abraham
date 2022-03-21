@@ -1,12 +1,12 @@
 {
     "header": {
-        "name": "Jose Abraham Solis Ramirez",
+        "name": "José Abraham Solís Ramírez",
         "position": "Desarrollador Angular"
     },
 
     "sections": {
-        "about": "Sobre mi",
+        "about": "Sobre mí",
         "experience": "Experiencia profesional",
-        "tech": "Tecnologias"
+        "tech": "Tecnologías"
     }
 }
