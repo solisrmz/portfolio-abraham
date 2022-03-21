@@ -2,26 +2,32 @@
     <div class="info-container">
         <img class="avatar-image" src="assets/images/avatar.png" alt="">
         <div class="info-text">
-            <h2>Jose Abraham Solis Ramirez</h2>
-            <h3>Angular Developer</h3>
+            <h2>{{'header.name' | translate}}</h2>
+            <h3>{{'header.position' | translate}}</h3>
         </div>
     </div>
 </div>
 <div>
     <mat-tab-group mat-align-tabs="center">
-        <mat-tab label="Sobre mí">
+        <mat-tab>
+            <ng-template mat-tab-label>
+                {{'sections.about' | translate}}
+            </ng-template>
             <ng-template matTabContent>
-                Información personal
             </ng-template>
         </mat-tab>
         <mat-tab label="Experiencia profesional">
+            <ng-template mat-tab-label>
+                {{'sections.experience' | translate}}
+            </ng-template>
             <ng-template matTabContent>
-                Información profesional
             </ng-template>
         </mat-tab>
         <mat-tab label="Tecnologías">
+            <ng-template mat-tab-label>
+                {{'sections.tech' | translate}}
+            </ng-template>
             <ng-template matTabContent>
-                Tecnologías que domino
             </ng-template>
         </mat-tab>
     </mat-tab-group>
