@@ -42,6 +42,10 @@ h3 {
     flex-direction: row;
 }
 
+.stretched-tabs {
+    max-width: 800px;
+}
+
 img {
     width: 30px;
     height: 30px;
@@ -58,4 +62,20 @@ img {
 ::ng-deep.menu {
     background-color: var(--md-primary-50)!important;
     color: var(--title-color)!important;
+}
+
+::ng-deep .mat-tab-header {
+    overflow-x: scroll !important;
+}
+
+ ::ng-deep .mat-tab-label-container {
+    overflow: visible !important;
+}
+
+::ng-deep .mat-tab-header::-webkit-scrollbar {
+    display: none;
+}
+
+::ng-deep .mat-tab-header-pagination {
+    display: none !important;
 }
