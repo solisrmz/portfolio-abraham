@@ -7,13 +7,17 @@ import { AboutMeComponent } from './components/about-me/about-me.component';
 import {TranslateLoader, TranslateModule} from "@ngx-translate/core";
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
+import { ExperienceComponent } from './components/experience/experience.component';
+import { TechnologiesComponent } from './components/technologies/technologies.component';
 export function HttpLoaderFactory(http: HttpClient) {
   return new TranslateHttpLoader(http);
 }
 @NgModule({
   declarations: [
     HomePortfolioComponent,
-    AboutMeComponent
+    AboutMeComponent,
+    ExperienceComponent,
+    TechnologiesComponent
   ],
   imports: [
     CommonModule,

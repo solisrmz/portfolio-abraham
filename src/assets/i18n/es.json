@@ -8,5 +8,9 @@
         "about": "Sobre mí",
         "experience": "Experiencia profesional",
         "tech": "Tecnologías"
+    },
+    "aboutMe": {
+        "greeting": "¡Hola a todos!",
+        "firstText": "Tengo 27 años y soy licenciado en Tecnologías Computacionales por parte de la Universidad Veracruzana"
     }
 }

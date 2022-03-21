@@ -7,5 +7,9 @@
         "about": "About me",
         "experience": "Professional experience",
         "tech": "Technologies"
+    },
+    "aboutMe": {
+        "greeting": "Hi everybody!",
+        "firstText": "I have a bachelors degree in Computer Technologies by the Universidad Veracruzana"
     }
 }
