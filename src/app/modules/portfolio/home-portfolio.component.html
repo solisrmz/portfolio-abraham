@@ -1,4 +1,14 @@
 <div class="header">
+    <div class="translate-button">
+        <button mat-icon-button [matMenuTriggerFor]="translateMenu">
+            <mat-icon>translate</mat-icon>
+        </button>
+        <mat-menu #translateMenu="matMenu" xPosition="before">
+            <div *ngFor="let language of languageList">
+                <button mat-menu-item (click)="changeLang(language.code)">{{language.label}}</button>
+            </div>
+        </mat-menu>
+    </div>
     <div class="info-container">
         <img class="avatar-image" src="assets/images/avatar.png" alt="">
         <div class="info-text">
