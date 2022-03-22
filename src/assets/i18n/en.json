@@ -10,6 +10,16 @@
     },
     "aboutMe": {
         "greeting": "Hi everybody!",
-        "firstText": "I have a bachelors degree in Computer Technologies by the Universidad Veracruzana"
+        "firstText": "I have a bachelors degree in Computer Technologies by the Universidad Veracruzana.",
+        "home": "I currently live in the city of Xalapa, Veracruz, Mexico.",
+        "interest": "I'm interested in web development and always willing to accept new challenges that require to test my skills in order to continue learning new things."
+    },
+    "experience": {
+        "introduction": "I have been working in the government sector, performing the following activities",
+        "sesver": {
+            "period": "September 01, 2021 - Present",
+            "work": "Angular Developer",
+            "activities": {}
+        }
     }
 }
