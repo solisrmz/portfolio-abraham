@@ -11,8 +11,10 @@
     },
     "aboutMe": {
         "greeting": "¡Hola a todos!",
-        "firstText": "Tengo 27 años y soy licenciado en Tecnologías Computacionales por parte de la Universidad Veracruzana",
-        "home": "Actualmente vivo me encuentro viviendo en la ciudad de Xalapa, Veracruz, México",
+        "presentation": "Tengo 27 años",
+        "now": "Actualmente estoy estudiando una maestria en sistemas interactivos centrados en el usuario, con la intención de mejorar mis habilidades para poder crear interfaces con mayor usabilidad e interactividad.",
+        "firstText": "Soy licenciado en Tecnologías Computacionales por parte de la Universidad Veracruzana",
+        "home": "Vivo en la ciudad de Xalapa, Veracruz, México",
         "interest": "He estado interesado en el desarrollo web y siempre estoy tratando de aceptar nuevos retos con los cuales pueda poner a prueba mis habilidades y seguir aprendiendo nuevas cosas"
     },
     "experience": {

@@ -10,8 +10,10 @@
     },
     "aboutMe": {
         "greeting": "Hi everybody!",
+        "presentation": "I have 27",
+        "now": "I am currently studying a master's degree in User-Centered Interactive Systems, with the intention of improving my skills to be able to create interfaces with greater usability and interactivity.",
         "firstText": "I have a bachelors degree in Computer Technologies by the Universidad Veracruzana.",
-        "home": "I currently live in the city of Xalapa, Veracruz, Mexico.",
+        "home": "I live in Xalapa City.",
         "interest": "I'm interested in web development and always willing to accept new challenges that require to test my skills in order to continue learning new things."
     },
     "experience": {
