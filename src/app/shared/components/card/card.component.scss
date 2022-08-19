@@ -1,0 +1,11 @@
+mat-card {
+    padding: 0;
+    border-radius: 5px;
+}
+
+mat-card-header {
+    border-radius: 5px 5px 0px 0px;
+    justify-content: center;
+    background-color: var(--md-primary-A400);
+    width: 100%;
+}
