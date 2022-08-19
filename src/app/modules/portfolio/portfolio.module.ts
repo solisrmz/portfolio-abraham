@@ -9,6 +9,7 @@ import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { ExperienceComponent } from './components/experience/experience.component';
 import { TechnologiesComponent } from './components/technologies/technologies.component';
+import { SharedModule } from '../../shared/shared.module';
 export function HttpLoaderFactory(http: HttpClient) {
   return new TranslateHttpLoader(http);
 }
@@ -31,7 +32,8 @@ export function HttpLoaderFactory(http: HttpClient) {
     }),
     PortfolioRoutingModule,
     MaterialModule,
-    HttpClientModule
+    HttpClientModule,
+    SharedModule
   ]
 })
 export class PortfolioModule { }

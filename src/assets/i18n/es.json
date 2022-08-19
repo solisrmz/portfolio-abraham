@@ -18,8 +18,9 @@
         "interest": "He estado interesado en el desarrollo web y siempre estoy tratando de aceptar nuevos retos con los cuales pueda poner a prueba mis habilidades y seguir aprendiendo nuevas cosas"
     },
     "experience": {
-        "introduction": "He trabajado en sector público, realizando las siguientes actividades",
+        "introduction": "He trabajado en gobierno, realizando las siguientes actividades",
         "sesver": {
+            "title": "Servicios de salud de Veracruz",
             "period": "01 de Septiembre 2021 - Actualidad",
             "work": "Desarrollador Angular",
             "activities": {}
