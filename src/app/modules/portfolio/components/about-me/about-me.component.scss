@@ -2,6 +2,16 @@
     padding: 2em;
 }
 
+.icono {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0.5em;
+}
+
+mat-icon {
+    color: var(--md-accent-300);
+}
+
 h1 {
     text-align: center;
 }
@@ -14,4 +24,8 @@ p {
     text-align: center;
     font-size: 1rem;
     margin-top: 1em;
+}
+
+span {
+    text-align: center;
 }
