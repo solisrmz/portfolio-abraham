@@ -22,7 +22,13 @@
             "title": "Health Services of the Government of the State of Veracruz - IT Department",
             "period": "September 01, 2021 - August 15, 2022",
             "work": "Angular Developer",
-            "activities": {}
+            "activities": {
+                "title": "Activities",
+                "activitie1": "Analysis and prototyping of a system for the Human Resources department of the Health Services of the State of Veracruz.",
+                "activitie2": "Analysis and prototyping of a system for the warehouses of the Health Services of the State of Veracruz.",
+                "activitie3": "Analysis and development of a system for the public hospitals of the State of Veracruz to show their medical supplies that are about to expire.",
+                "activitie4": "Development of a system for the control of fixed assets in the warehouses belonging to the Health Services of Veracruz."
+            }
         }
     }
 }

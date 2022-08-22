@@ -21,9 +21,15 @@
         "introduction": "He trabajado en gobierno, realizando las siguientes actividades",
         "sesver": {
             "title": "Servicios de salud de Veracruz",
-            "period": "01 de Septiembre 2021 - Actualidad",
+            "period": "01 de Septiembre 2021 - 15 de agosto 2022",
             "work": "Desarrollador Angular",
-            "activities": {}
+            "activities": {
+                "title": "Actividades",
+                "activitie1": "Análisis y prototipado de un sistema para la subdirección de Recursos Humanos de los Servicios de Salud de Veracruz.",
+                "activitie2": "Análisis y maquetación de un sistema para los almacenes de la secretaria de salud de Veracruz.",
+                "activitie3": "Análisis y desarrollo de un sistema para el boletinaje de insumos de salud en las unidades aplicativas pertenecientes a los Servicios de Salud de Veracruz.",
+                "activitie4": "Desarrollo de un sistema para el control del activo fijo en los almacenes pertenecientes a los Servicios de Salud de Veracruz."
+            }
         }
     }
 }

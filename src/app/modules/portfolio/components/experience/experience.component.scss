@@ -18,10 +18,24 @@ span {
 
 mat-icon {
     vertical-align: middle;
+    margin-right: 0.2em;
+}
+
+
+/*.mat-divider {
+    margin-top: 1em;
+}*/
+
+.activities {
+    margin-top: 1em;
 }
 
 .contenido {
     padding: 1em;
+}
+
+.period {
+    margin-bottom: 0.5em;
 }
 
 .sesver {
@@ -30,4 +44,20 @@ mat-icon {
 
 .sefiplan {
     padding: 1em;
+}
+
+ul {
+    margin: 0.5em;
+    font-size: 1rem;
+}
+
+@media screen and(max-width: 900px) {
+    h2 {
+        font-size: 1rem;
+        text-align: center;
+        margin-right: 1em;
+    }
+    .activities {
+        text-align: justify;
+    }
 }
