@@ -17,7 +17,7 @@
         "interest": "I'm interested in web development and always willing to accept new challenges that require to test my skills in order to continue learning new things."
     },
     "experience": {
-        "introduction": "I have been working in the government sector, performing the following activities",
+        "introduction": "I have been working in the government sector, performing the following activities:",
         "sesver": {
             "title": "Health Services of the Government of the State of Veracruz - IT Department",
             "period": "September 01, 2021 - August 15, 2022",
@@ -29,6 +29,20 @@
                 "activitie3": "Analysis and development of a system for the public hospitals of the State of Veracruz to show their medical supplies that are about to expire.",
                 "activitie4": "Development of a system for the control of fixed assets in the warehouses belonging to the Health Services of Veracruz."
             }
+        },
+        "sefiplan": {
+            "title": "Technological Innovation  - Secretary of Finance and Planning of the Government of the State of Veracruz",
+            "period": "Octuber 1st, 2020 - August 31, 2021",
+            "work": "Angular Developer",
+            "activities": {
+                "title": "Activities",
+                "activitie1": "Frontend and creation of reports in a system for delivery reception.",
+                "activitie2": "Analysis and prototyping of a system for the warehouses of the Health Services of the State of Veracruz.",
+                "activitie3": "Analysis and prototyping of a system for hospital administration."
+            }
+        },
+        "technologies": {
+            "description": "I have worked with the following technologies:"
         }
     }
 }

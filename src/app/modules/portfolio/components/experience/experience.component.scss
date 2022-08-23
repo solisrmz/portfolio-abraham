@@ -1,4 +1,12 @@
-h1,
+.activities {
+    margin-top: 1em;
+}
+
+.contenido {
+    padding: 1em;
+}
+
+h3,
 p {
     text-align: center;
 }
@@ -19,19 +27,26 @@ span {
 mat-icon {
     vertical-align: middle;
     margin-right: 0.2em;
+    color: var(--md-accent-300);
 }
 
-
-/*.mat-divider {
-    margin-top: 1em;
-}*/
-
-.activities {
-    margin-top: 1em;
+mat-divider {
+    background-color: var(--md-accent-A900);
 }
 
-.contenido {
-    padding: 1em;
+.lista {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 1em;
+}
+
+.imagen {
+    width: 250px;
+    height: 150px;
+    border-radius: 5px;
+    border: solid 2px var(--md-accent-300);
+    opacity: 0.9;
 }
 
 .period {
@@ -59,5 +74,18 @@ ul {
     }
     .activities {
         text-align: justify;
+    }
+    .lista {
+        flex-direction: column;
+        justify-content: center;
+    }
+    .img {
+        display: block;
+        margin: auto;
+        padding-top: 1em;
+    }
+    .imagen {
+        width: 300px;
+        height: 180px;
     }
 }
