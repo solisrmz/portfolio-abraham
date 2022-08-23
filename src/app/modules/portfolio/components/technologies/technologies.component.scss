@@ -2,6 +2,26 @@
     padding: 1em;
 }
 
+.contenidoCard {
+    padding: 1em;
+}
+
 h3 {
     text-align: center;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.tech {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.tech>div {
+    flex: 1 1 20%;
 }
